@@ -1,0 +1,15 @@
+################################
+## White list based gitignore ##
+################################
+
+# forbidden
+*
+.*
+
+# allowed
+!.gitignore
+!.gitattributes
+!*.md
+!*.ipynb
+!*.py
+!*.sh
