@@ -9,6 +9,8 @@
 # allowed
 !AudioToText/
 !AudioAnalysis/
+!AudioDivider/
+!AllinOne/
 !.gitignore
 !.gitattributes
 !*.md
